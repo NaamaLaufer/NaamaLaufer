@@ -6,7 +6,7 @@
 
 
 
-I am a second-year Software Engineering student at JCT, holding a MAHAT Practical Engineering Diploma. I am a passionate developer with a core programming foundation in **C++** and systems architecture, combined with hands-on experience across systems programming, Full-Stack web applications, and Artificial Intelligence (AI).
+I am a second-year Software Engineering student at  Open University, holding a MAHAT Practical Engineering Diploma. I am a passionate developer with a core programming foundation in **C++** and systems architecture, combined with hands-on experience across systems programming, Full-Stack web applications, and Artificial Intelligence (AI).
 
 I love solving complex algorithmic challenges, writing clean, high-performance code, and keeping full architectural control over design (proudly using standard CSS and CSS Modules).
 
